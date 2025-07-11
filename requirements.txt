@@ -1,0 +1,12 @@
+torch>=2.3
+timm>=0.9
+rlbench>=1.3
+numpy
+matplotlib
+open3d
+pytest
+tqdm
+jupyter
+pandas
+scipy
+Pillow 
