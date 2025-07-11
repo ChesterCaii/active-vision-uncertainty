@@ -1,0 +1,51 @@
+PRESENTATION SLIDES PLACEHOLDER
+
+This directory is reserved for presentation materials (.pptx files) for the Active Vision Uncertainty Reward project.
+
+Suggested slide structure:
+
+1. Title Slide
+   - Active Vision Uncertainty Reward
+   - Information-Theoretic Approach for Robotic Vision
+   - Student Project
+
+2. Problem Statement
+   - Active vision challenges in robotics
+   - Need for uncertainty-aware viewpoint selection
+   - Information-theoretic reward systems
+
+3. Methodology
+   - Shannon entropy computation from ViT features
+   - Per-pixel uncertainty heatmaps
+   - Systematic viewpoint scanning
+
+4. System Architecture
+   - Core entropy module
+   - RLBench integration
+   - Viewpoint scanner
+   - Visualization pipeline
+
+5. Implementation Details
+   - Vision Transformer backbone
+   - Patch-based entropy computation
+   - Spherical viewpoint generation
+   - Real-time processing considerations
+
+6. Results
+   - Entropy computation validation
+   - Heatmap visualization examples
+   - Viewpoint scanning analysis
+   - Performance metrics
+
+7. Demo
+   - Live demonstration of uncertainty computation
+   - Heatmap overlay visualization
+   - Best viewpoint identification
+
+8. Conclusions
+   - Summary of achievements
+   - Potential applications
+   - Future work directions
+
+Note: The actual PowerPoint (.pptx) files should be placed in this directory.
+They are excluded from version control via .gitignore. 
